@@ -21,3 +21,13 @@
 
 ## 주요 테이블 구조
 <img width="2063" alt="image" src="https://user-images.githubusercontent.com/55828130/164739870-9a795bfe-a37d-4147-ab04-ebcc4f00bef1.png">
+<img width="2075" alt="image" src="https://user-images.githubusercontent.com/55828130/164740044-6127e0f0-ce9a-4192-abb6-b161ee0386c7.png">
+
+## 프로젝트 데모
+<img width="1407" alt="image" src="https://user-images.githubusercontent.com/55828130/164741284-e13ca356-b898-4429-bebb-a535ba9a0f09.png">
+
+<img width="1334" alt="image" src="https://user-images.githubusercontent.com/55828130/164741355-1ae8354c-8f48-44cc-b340-d8c956d9dc01.png">
+
+<img width="1332" alt="image" src="https://user-images.githubusercontent.com/55828130/164741443-5a961111-3a33-4cff-97c6-89428a70c8ce.png">
+
+<img width="1358" alt="image" src="https://user-images.githubusercontent.com/55828130/164741519-cd42b5f1-aa41-49e2-abe6-eb23c19b7bb6.png">
