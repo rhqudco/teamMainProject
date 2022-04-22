@@ -1,5 +1,4 @@
 <img width="1281" alt="image" src="https://user-images.githubusercontent.com/55828130/164736308-b057c910-f1c0-4422-af15-7c5c8dd609f7.png">
-![image](https://user-images.githubusercontent.com/55828130/164736308-b057c910-f1c0-4422-af15-7c5c8dd609f7.png)
 
 # 코딩라이트 Daliy&Linker
 
@@ -18,4 +17,7 @@
 ### WAS : Tomcat
 
 ## 프로젝트 계층 구조
-<img width="1281" alt="image" src="https://user-images.githubusercontent.com/55828130/164739064-81d44c7f-0768-49e1-b7b7-4400b07b50c9.png">
+<img width="1274" alt="image" src="https://user-images.githubusercontent.com/55828130/164739510-0cffbdef-318b-43f1-a077-abffe874a03e.png">
+
+## 주요 테이블 구조
+<img width="2063" alt="image" src="https://user-images.githubusercontent.com/55828130/164739870-9a795bfe-a37d-4147-ab04-ebcc4f00bef1.png">
