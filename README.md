@@ -1,5 +1,3 @@
-# teamMainProject
-코딩라이트 Daliy&Linker
+# 코딩라이트 Daliy&Linker
 
-### Test
-### Test2
+## 팀장 : 신은지
